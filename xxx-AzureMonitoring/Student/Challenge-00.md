@@ -1,6 +1,6 @@
 # Challenge 00: Getting started
 
-**[Home](../README.md)** - [Next Challenge>](./02-Alerts-Activity-Logs-And-Service-Health.md)
+**[Home](../README.md)** - [Next Challenge>](./Challenge-01.md)
 
 ## Pre-requisites
 
