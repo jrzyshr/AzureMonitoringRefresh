@@ -1,6 +1,6 @@
 # Challenge 02: Monitoring Basics and Dashboards
 
-[Previous Challenge](./02-Alerts-Activity-Logs-And-Service-Health.md) - **[Home](../README.md)** - [Next Challenge>](./04-Azure-Monitor-For-Virtual-Machines.md)
+[Previous Challenge](./Challenge-01.md) - **[Home](../README.md)** - [Next Challenge>](./Challenge-03.md)
 
 ## Introduction
 After deploying your initial solution for eshoponweb, you want to make sure that the telemetry is collected from the VMs deployed and display the results on a dashboard for visualization and alerting purposes. To accomplish this, you will have to understand the concept of counters, how to collect them, how to configure Alerts and display them in a Dashboard.    
