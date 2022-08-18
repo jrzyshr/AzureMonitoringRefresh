@@ -12,14 +12,14 @@ In this hack, you will be getting hands on experience with monitoring resources 
 
 ## Challenges
 
-- Challenge 1: **[Getting Started](Student/Challenge-01.md)**
-- Challenge 2: **[Alerts, Activity Logs and Service Health](Student/02-Alerts-Activity-Logs-And-Service-Health.md)**
-- Challenge 2: **[Monitoring Basics and Dashboards](Student/03-Monitoring-Basics-And-Dashboards.md)**
-- Challenge 3: **[Azure Monitor for Virtual Machines](Student/04-Azure-Monitor-For-Virtual-Machines.md)**
-- Challenge 5: **[Azure Monitor for Applications](Student/05-Azure-Monitor-For-Applications.md)**
-- Challenge 6: **[Azure Monitor for Containers](Student/06-Azure-Monitor-For-Containers.md)**
-- Challenge 7: **[Log Queries with KQL and Grafana](Student/07-Log-Queries-With-KQL-And-Grafana.md)**
-- Challenge 8: **[Visualizations](Student/08-Visualizations.md)**
+- Challenge 0: **[Getting Started](Student/Challenge-00.md)**
+- Challenge 1: **[Alerts, Activity Logs and Service Health](Student/Challenge-01.md)**
+- Challenge 2: **[Monitoring Basics and Dashboards](Student/Challenge-02.md)**
+- Challenge 3: **[Azure Monitor for Virtual Machines](Student/Challenge-03.md)**
+- Challenge 4: **[Azure Monitor for Applications](Student/Challenge-04.md)**
+- Challenge 5: **[Azure Monitor for Containers](Student/Challenge-05.md)**
+- Challenge 6: **[Log Queries with KQL and Grafana](Student/Challenge-06.md)**
+- Challenge 7: **[Visualizations](Student/Challenge-07.md)**
 
 ## Technologies
 
