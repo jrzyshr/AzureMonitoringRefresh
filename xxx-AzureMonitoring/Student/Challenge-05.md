@@ -1,6 +1,6 @@
 # Challenge 05: Azure Monitor for Containers
 
-[Previous Challenge](./05-Azure-Monitor-For-Applications.md) - **[Home](../README.md)** - [Next Challenge>](./07-Log-Queries-With-KQL-And-Grafana.md)
+[Previous Challenge](./Challenge-04.md) - **[Home](../README.md)** - [Next Challenge>](./Challenge-06.md)
 
 ## Introduction
 In this challenge we will learn more about Container Monitoring and how it works
