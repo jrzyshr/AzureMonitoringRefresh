@@ -1,6 +1,6 @@
 # Challenge 04: Azure Monitor for Applications
 
-[Previous Challenge](./04-Azure-Monitor-For-Virtual-Machines.md) - **[Home](../README.md)** - [Next Challenge>](./06-Azure-Monitor-For-Containers.md)
+[Previous Challenge](./Challenge-03.md) - **[Home](../README.md)** - [Next Challenge>](./Challenge-05.md)
 
 ## Introduction
 
