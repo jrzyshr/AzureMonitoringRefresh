@@ -1,6 +1,6 @@
 # Challenge 06: Log Queries with KQL and Grafana
 
-[Previous Challenge](./06-Azure-Monitor-For-Containers.md) - **[Home](../README.md)** - [Next Challenge>](./08-Visualizations.md)
+[Previous Challenge](./Challenge-05.md) - **[Home](../README.md)** - [Next Challenge>](./Challenge-07.md)
 
 ## Introduction
 understand the Kusto Query Language (KQL) write and save queries, which we can run on our Log Analytics Workspace
