@@ -69,7 +69,9 @@ Use either the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?msclkid=6
 
 5. Copy the PowerShell code below:
 
-    ```New-AzDeployment -Name "<Username>" -Location "eastus" -TemplateUri "https://raw.githubusercontent.com/jamasten/WhatTheHack/master/007-AzureMonitoring/Student/Resources/challenge-00_Template.json" -Verbose```
+    ```
+    New-AzDeployment -Name "<Username>" -Location "eastus" -TemplateUri "https://raw.githubusercontent.com/jamasten/WhatTheHack/master/007-AzureMonitoring/Student/Resources/challenge-00_Template.json" -Verbose
+    ```
 
 6. Paste the code in your desired tool.
 
