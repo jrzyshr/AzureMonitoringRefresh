@@ -12,7 +12,7 @@ In this hack, you will be getting hands on experience with monitoring resources 
 
 ## Challenges
 
-- Challenge 1: **[Getting Started](Student/01-Getting-Started.md)**
+- Challenge 1: **[Getting Started](Student/Challenge-01.md)**
 - Challenge 2: **[Alerts, Activity Logs and Service Health](Student/02-Alerts-Activity-Logs-And-Service-Health.md)**
 - Challenge 2: **[Monitoring Basics and Dashboards](Student/03-Monitoring-Basics-And-Dashboards.md)**
 - Challenge 3: **[Azure Monitor for Virtual Machines](Student/04-Azure-Monitor-For-Virtual-Machines.md)**
