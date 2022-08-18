@@ -47,7 +47,9 @@ Use either the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?msclkid=6
 
 7. Copy the Azure CLI code below:
 
-    ```az deployment sub create --name "<Username>" --location "eastus" --template-uri "https://raw.githubusercontent.com/jamasten/WhatTheHack/master/007-AzureMonitoring/Student/Resources/challenge-00_Template.json" --verbose```
+    ```
+    az deployment sub create --name "<Username>" --location "eastus" --template-uri "https://raw.githubusercontent.com/jamasten/WhatTheHack/master/007-AzureMonitoring/Student/Resources/challenge-00_Template.json" --verbose
+    ```
 
 8. Paste the code in your desired tool.
 
