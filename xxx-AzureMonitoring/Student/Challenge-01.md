@@ -1,6 +1,6 @@
 # Challenge 01: Alerts, Activity Logs and Service Health
 
-[Previous Challenge](./01-Getting-Started.md) - **[Home](../README.md)** - [Next Challenge>](./03-Monitoring-Basics-And-Dashboards.md)
+[Previous Challenge](./Challenge-00.md) - **[Home](../README.md)** - [Next Challenge>](./Challenge-02.md)
 
 ## Introduction
 
