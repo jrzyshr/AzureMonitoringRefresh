@@ -1,6 +1,6 @@
 # Challenge 03: Azure Monitor for Virtual Machines
 
-[< Previous Challenge](./03-Monitoring-Basics-And-Dashboards.md) - **[Home](../README.md)** - [Next Challenge>](05-Azure-Monitor-For-Applications.md)
+[< Previous Challenge](./Challenge-02.md) - **[Home](../README.md)** - [Next Challenge>](Challenge-04.md)
 
 ## Introduction
 
