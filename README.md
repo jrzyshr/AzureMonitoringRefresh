@@ -1,6 +1,6 @@
 # What The Hack - Azure Monitoring (Refresh)
 
-This is a temporary repo to host the contents of the Azure Monitoring What The Hack contents as it is being refreshed.
+This is a temporary repo to host the contents of the Azure Monitoring What The Hack as it is being refreshed.
 
 **NOTE:** This content should NOT be used to deliver a hack.
 
